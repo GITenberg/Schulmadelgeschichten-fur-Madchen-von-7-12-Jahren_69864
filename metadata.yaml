@@ -1,0 +1,32 @@
+_repo: Schulmadelgeschichten-fur-Madchen-von-7-12-Jahren_69864
+_version: 0.0.1
+alternative_title: 'Schulmädelgeschichten: in Wort und Bild'
+creator:
+  author:
+    agent_name: Beeg, Marie
+    alias: Ille-Beeg, Marie
+    birthdate: 1855
+    deathdate: 1927
+    gutenberg_agent_id: '55473'
+    url: http://www.gutenberg.org/2009/agents/55473
+    wikipedia: https://de.wikipedia.org/wiki/Marie_Ille-Beeg
+description: ''
+gutenberg_issued: '2023-01-26'
+identifiers:
+  gutenberg: '69864'
+language: de
+pgterms:marc905: 20210424121923beeg
+pgterms:marc906: '1900'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Schreiter''sche Verlagsbuchhandlung,1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Schoolgirls -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Schulmädelgeschichten: für Mädchen von 7-12 Jahren'
+url: http://www.gutenberg.org/ebooks/69864
