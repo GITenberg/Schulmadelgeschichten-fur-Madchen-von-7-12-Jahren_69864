@@ -1,6 +1,9 @@
 _repo: Schulmadelgeschichten-fur-Madchen-von-7-12-Jahren_69864
 _version: 0.1.0
 alternative_title: 'Schulmädelgeschichten: in Wort und Bild'
+covers:
+- cover_type: archival
+  image_path: 69864-h/images/cover.jpg
 creator:
   author:
     agent_name: Beeg, Marie
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55473
     wikipedia: https://de.wikipedia.org/wiki/Marie_Ille-Beeg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69864#Schulmadelgeschichten-fur-Madchen-von-7-12-Jahren
 gutenberg_issued: '2023-01-26'
 identifiers:
   gutenberg: '69864'
